@@ -1,0 +1,6 @@
+node_id,type,location,risk_score
+A,Supplier,New York,0.3
+B,Factory,Chicago,0.5
+C,Distributor,Los Angeles,0.2
+D,Retailer,San Francisco,0.4
+E,Supplier,Houston,0.6
