@@ -1,8 +1,0 @@
-pandas
-networkx
-torch
-torch_geometric
-matplotlib
-plotly
-scikit-learn
-streamlit

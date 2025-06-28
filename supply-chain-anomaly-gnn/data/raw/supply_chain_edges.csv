@@ -1,7 +1,0 @@
-source,target,weight,delay
-A,B,10,2
-B,C,20,1
-C,D,15,3
-A,D,5,4
-B,E,8,2
-E,D,12,1
