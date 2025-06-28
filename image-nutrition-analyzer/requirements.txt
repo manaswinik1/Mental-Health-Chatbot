@@ -1,9 +1,0 @@
-pandas
-numpy
-opencv-python
-torch
-torchvision
-matplotlib
-plotly
-streamlit
-yolov5
